@@ -1,3 +1,8 @@
+# Moved to go-common
+
+moved to https://github.com/ngicks/go-common
+w/ some modification, etc.
+
 # timing-helper
 
 timing utility functions.
